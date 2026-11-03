@@ -1,0 +1,40 @@
+# Cabeceras para Cloudflare (Workers con recursos estáticos). Cloudflare lee este archivo de dist/ y no lo sirve.
+# Documentación: developers.cloudflare.com/workers/static-assets/headers/ (consultada el 2026-10-30).
+#
+# Dos reglas de Cloudflare que mandan aquí:
+# - Si varias reglas ponen la misma cabecera en una URL, los valores se unen con una coma. Por eso Cache-Control no va en /*
+#   y las reglas de caché de abajo no se solapan: cada URL cae como mucho en una.
+# - Máximo 100 reglas y 2.000 caracteres por línea.
+# Las reglas se comparan con la URL pedida: las páginas acaban en «/» y los archivos, en su extensión.
+#
+# Nada de esto bloquea a Googlebot ni a Bingbot. Tampoco hay X-Robots-Tag (DECISIONES, 2026-10-30).
+#
+# Sin Content-Security-Policy, a propósito. Una CSP que restrinja los scripts rompería el script del tema (en línea en el
+# head) y el del buscador (en línea en /buscar/) salvo con 'unsafe-inline' o con hashes que cambian en cada build; Pagefind
+# necesita 'wasm-unsafe-eval' y AdSense, una lista larga de dominios de Google que cambia con el tiempo. Sin navegador no se
+# puede probar. Al activar los anuncios: primero Content-Security-Policy-Report-Only, y activarla cuando no avise de nada.
+#
+# HSTS prudente: 30 días, sin includeSubDomains ni preload (no se pueden deshacer). Subir a 31536000 (un año) cuando la web
+# lleve un mes estable en HTTPS.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()
+  X-Frame-Options: DENY
+  Strict-Transport-Security: max-age=2592000
+
+# Archivos con huella en el nombre (CSS, JavaScript e imágenes de Astro): nunca cambian, un año.
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Páginas, sitemaps y RSS: caché corta de 5 minutos, para que una corrección o una noticia nueva se vean enseguida.
+/
+  Cache-Control: public, max-age=300
+/*/
+  Cache-Control: public, max-age=300
+/rss.xml
+  Cache-Control: public, max-age=300
+/*/rss.xml
+  Cache-Control: public, max-age=300
+/sitemap-*.xml
+  Cache-Control: public, max-age=300
