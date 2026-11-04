@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://megahercio.com/electronica/gta-6-precarga-espacio-ps5-xbox/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T11:01:00+01:00</news:publication_date>
+      <news:title>GTA 6 pedirá hasta 212 GB libres y se podrá precargar desde el 10 de noviembre en PS5 y Xbox</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/electronica/windows-11-8-gb-mas-rapido/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04T11:00:00+01:00</news:publication_date>
+      <news:title>Microsoft dice que Windows 11 va hasta un 40 % más rápido en PC de 8 GB: qué cambia y cómo tenerlo</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://megahercio.com/informatica/botnet-cajas-tv-android-desmantelada/</loc>
     <news:news>
       <news:publication>
