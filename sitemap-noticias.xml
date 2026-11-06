@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://megahercio.com/electronica/nintendo-switch-2-ventas-caen/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:48:00+01:00</news:publication_date>
+      <news:title>Las ventas de Nintendo Switch 2 caen un 41 % tras subir a 499,99 €, pero Nintendo descarta otra subida</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/gemini-omni-1-2-flash-video/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:42:00+01:00</news:publication_date>
+      <news:title>Google lanza Gemini Omni 1.2 Flash: vídeo con IA de hasta 15 segundos y un 30 % más barato</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/informatica/bluetooth-hdt-7-5-mbps/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:35:00+01:00</news:publication_date>
+      <news:title>Bluetooth SIG adopta Bluetooth HDT: hasta 7,5 Mbps en Bluetooth LE y audio sin pérdida en 2027</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/electronica/sony-mdr-3r-auriculares-walkman/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:30:00+01:00</news:publication_date>
+      <news:title>Sony recupera los auriculares del Walkman de 1979 en una versión de 38 gramos con cable</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/informatica/openssh-alpine-fallo-contrasenas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:25:00+01:00</news:publication_date>
+      <news:title>Un fallo entre OpenSSH y musl permite entrar sin clave en cuentas de Alpine Linux: cómo actualizar</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/gpt-6-cyber-openai-ciberseguridad/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06T12:15:00+01:00</news:publication_date>
+      <news:title>OpenAI lanza GPT-6 Cyber, un modelo para hallar fallos y proponer parches sin salirse del alcance</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://megahercio.com/informatica/ataques-zero-click-ios-android/</loc>
     <news:news>
       <news:publication>
@@ -20,61 +86,6 @@
       </news:publication>
       <news:publication_date>2026-11-05T09:20:00+01:00</news:publication_date>
       <news:title>OpenAI comprará Pierre, cuyas librerías ya usa Codex</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/gta-6-precarga-espacio-ps5-xbox/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T11:01:00+01:00</news:publication_date>
-      <news:title>GTA 6 pedirá hasta 212 GB libres y se podrá precargar desde el 10 de noviembre en PS5 y Xbox</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/windows-11-8-gb-mas-rapido/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-04T11:00:00+01:00</news:publication_date>
-      <news:title>Microsoft dice que Windows 11 va hasta un 40 % más rápido en PC de 8 GB: qué cambia y cómo tenerlo</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/informatica/botnet-cajas-tv-android-desmantelada/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T11:14:47+01:00</news:publication_date>
-      <news:title>Google desmantela una botnet de 1,3 millones de cajas de TV Android infectadas de fábrica</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/grok-recorta-limites-costes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T11:14:47+01:00</news:publication_date>
-      <news:title>Grok Bot: Musk dice que servirlo costaba demasiado y los usuarios agotan antes su cuota</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/raspberry-pi-16-gb-sube-precio/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-03T11:14:47+01:00</news:publication_date>
-      <news:title>La Raspberry Pi 5 de 16 GB sube a 385 dólares, más del triple que en su lanzamiento</news:title>
     </news:news>
   </url>
 </urlset>
