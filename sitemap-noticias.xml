@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://megahercio.com/informatica/windows-11-27h2-novedades/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:35:00+01:00</news:publication_date>
+      <news:title>Windows 11 27H2 sería la gran actualización de 2027 y Windows 12 tendría que esperar, según The Verge</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/electronica/intel-nova-lake-limite-frecuencia/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:34:00+01:00</news:publication_date>
+      <news:title>Una filtración dice que los Intel Nova Lake bajarían a 5,1 GHz al pasar de 90 °C</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/electronica/jensen-huang-congreso-espionaje-china/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:33:00+01:00</news:publication_date>
+      <news:title>Tres comités del Congreso de EE. UU. piden a Jensen Huang una sesión cerrada por un supuesto espionaje chino</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/openai-hacktron-vulnerabilidades/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:30:00+01:00</news:publication_date>
+      <news:title>OpenAI y Hacktron buscarán fallos en las conexiones de OpenAI con servicios de otras empresas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/nvidia-cosmos-3-simulacion-mundos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-07T16:00:00+01:00</news:publication_date>
+      <news:title>NVIDIA amplía Cosmos 3 con cuatro modelos abiertos que generan vídeo para simular conducción y robots</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://megahercio.com/electronica/nintendo-switch-2-ventas-caen/</loc>
     <news:news>
       <news:publication>
@@ -63,29 +118,7 @@
         <news:language>es</news:language>
       </news:publication>
       <news:publication_date>2026-11-06T12:15:00+01:00</news:publication_date>
-      <news:title>OpenAI lanza GPT-6 Cyber, un modelo para hallar fallos y proponer parches sin salirse del alcance</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/informatica/ataques-zero-click-ios-android/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T09:25:00+01:00</news:publication_date>
-      <news:title>Webs manipuladas infectan iPhone y Android con fallos ya corregidos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/openai-compra-pierre-codex/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-05T09:20:00+01:00</news:publication_date>
-      <news:title>OpenAI comprará Pierre, cuyas librerías ya usa Codex</news:title>
+      <news:title>GPT-6 Cyber, el modelo de OpenAI para hallar fallos y parches que, según la empresa, respeta el alcance</news:title>
     </news:news>
   </url>
 </urlset>
