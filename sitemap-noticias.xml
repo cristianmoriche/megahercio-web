@@ -44,37 +44,4 @@
       <news:title>Representantes de AMD admiten que sus drivers Radeon escriben sin parar en el SSD</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://megahercio.com/informatica/windows-11-27h2-novedades/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:35:00+01:00</news:publication_date>
-      <news:title>Windows 11 27H2 sería la gran actualización de 2027 y Windows 12 tendría que esperar, según The Verge</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/intel-nova-lake-limite-frecuencia/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:34:00+01:00</news:publication_date>
-      <news:title>Una filtración dice que los Intel Nova Lake bajarían a 5,1 GHz al pasar de 90 °C</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/jensen-huang-congreso-espionaje-china/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:33:00+01:00</news:publication_date>
-      <news:title>Tres comités del Congreso de EE. UU. piden a Jensen Huang una sesión cerrada por un supuesto espionaje chino</news:title>
-    </news:news>
-  </url>
 </urlset>
