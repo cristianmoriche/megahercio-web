@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://megahercio.com/ia/gemini-4-carbon-argon-google/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T16:10:00+01:00</news:publication_date>
+      <news:title>Gemini 4 Carbon, el modelo más potente de Google, llega solo a defensores de ciberseguridad</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/informatica/epic-games-launcher-steamos/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T16:05:00+01:00</news:publication_date>
+      <news:title>Epic incluye SteamOS entre los sistemas Linux que quiere para su nuevo Epic Games Launcher</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/tpu-8tx-8i-max-google/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T15:50:00+01:00</news:publication_date>
+      <news:title>Google presenta TPU 8tx y 8i Max, dos sistemas para IA confidencial y contextos enormes</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/electronica/amd-drivers-radeon-escrituras-ssd/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-09T15:45:00+01:00</news:publication_date>
+      <news:title>Representantes de AMD admiten que sus drivers Radeon escriben sin parar en el SSD</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://megahercio.com/informatica/windows-11-27h2-novedades/</loc>
     <news:news>
       <news:publication>
@@ -31,94 +75,6 @@
       </news:publication>
       <news:publication_date>2026-11-07T16:33:00+01:00</news:publication_date>
       <news:title>Tres comités del Congreso de EE. UU. piden a Jensen Huang una sesión cerrada por un supuesto espionaje chino</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/openai-hacktron-vulnerabilidades/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:30:00+01:00</news:publication_date>
-      <news:title>OpenAI y Hacktron buscarán fallos en las conexiones de OpenAI con servicios de otras empresas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/nvidia-cosmos-3-simulacion-mundos/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-07T16:00:00+01:00</news:publication_date>
-      <news:title>NVIDIA amplía Cosmos 3 con cuatro modelos abiertos que generan vídeo para simular conducción y robots</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/nintendo-switch-2-ventas-caen/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:48:00+01:00</news:publication_date>
-      <news:title>Las ventas de Nintendo Switch 2 caen un 41 % tras subir a 499,99 €, pero Nintendo descarta otra subida</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/gemini-omni-1-2-flash-video/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:42:00+01:00</news:publication_date>
-      <news:title>Google lanza Gemini Omni 1.2 Flash: vídeo con IA de hasta 15 segundos y un 30 % más barato</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/informatica/bluetooth-hdt-7-5-mbps/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:35:00+01:00</news:publication_date>
-      <news:title>Bluetooth SIG adopta Bluetooth HDT: hasta 7,5 Mbps en Bluetooth LE y audio sin pérdida en 2027</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/sony-mdr-3r-auriculares-walkman/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:30:00+01:00</news:publication_date>
-      <news:title>Sony recupera los auriculares del Walkman de 1979 en una versión de 38 gramos con cable</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/informatica/openssh-alpine-fallo-contrasenas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:25:00+01:00</news:publication_date>
-      <news:title>Un fallo entre OpenSSH y musl permite entrar sin clave en cuentas de Alpine Linux: cómo actualizar</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/gpt-6-cyber-openai-ciberseguridad/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-06T12:15:00+01:00</news:publication_date>
-      <news:title>GPT-6 Cyber, el modelo de OpenAI para hallar fallos y parches que, según la empresa, respeta el alcance</news:title>
     </news:news>
   </url>
 </urlset>
