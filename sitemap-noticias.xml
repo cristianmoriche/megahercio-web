@@ -1,47 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://megahercio.com/ia/gemini-4-carbon-argon-google/</loc>
+    <loc>https://megahercio.com/informatica/chrome-octavo-zero-day/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T16:10:00+01:00</news:publication_date>
-      <news:title>Gemini 4 Carbon, el modelo más potente de Google, llega solo a defensores de ciberseguridad</news:title>
+      <news:publication_date>2026-11-11T20:04:43+01:00</news:publication_date>
+      <news:title>Google corrige en Chrome 157 el octavo zero-day explotado en 2026</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/informatica/epic-games-launcher-steamos/</loc>
+    <loc>https://megahercio.com/ia/meta-muse-ember-modelo-agentes/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-09T16:05:00+01:00</news:publication_date>
-      <news:title>Epic incluye SteamOS entre los sistemas Linux que quiere para su nuevo Epic Games Launcher</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/tpu-8tx-8i-max-google/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T15:50:00+01:00</news:publication_date>
-      <news:title>Google presenta TPU 8tx y 8i Max, dos sistemas para IA confidencial y contextos enormes</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/amd-drivers-radeon-escrituras-ssd/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-09T15:45:00+01:00</news:publication_date>
-      <news:title>Representantes de AMD admiten que sus drivers Radeon escriben sin parar en el SSD</news:title>
+      <news:publication_date>2026-11-11T20:04:43+01:00</news:publication_date>
+      <news:title>Meta lanza Muse Ember, un modelo barato para el trabajo repetitivo de los agentes</news:title>
     </news:news>
   </url>
 </urlset>
