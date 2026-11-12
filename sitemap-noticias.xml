@@ -1,6 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://megahercio.com/informatica/github-ataque-cadena-suministro-4837-cuentas/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:58:00+01:00</news:publication_date>
+      <news:title>Un ataque a 4.837 cuentas de GitHub inyecta robos de secretos en más de 1.800 repositorios</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/informatica/apache-http-server-rce-critico/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:57:00+01:00</news:publication_date>
+      <news:title>Apache corrige una vulnerabilidad RCE crítica en HTTP Server (CVE-2026-119618)</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/informatica/kora-sistema-linux-nativo-ia/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:56:00+01:00</news:publication_date>
+      <news:title>KORA presenta un sistema Linux nativo para IA liderado por el cofundador de Cyanogen</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/electronica/amd-rdna-5-gfx13-parches-linux/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:55:00+01:00</news:publication_date>
+      <news:title>La arquitectura AMD RDNA 5 (GFX13) aparece en los primeros parches del kernel Linux</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/deepseek-harness-154-millones-usuarios/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:54:00+01:00</news:publication_date>
+      <news:title>DeepSeek Harness alcanza los 1,54 millones de usuarios diarios y prepara tienda de plugins</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/openai-10000-millones-trimestre/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:53:00+01:00</news:publication_date>
+      <news:title>OpenAI supera los 10.000 millones de dólares en ingresos en un solo trimestre</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/anthropic-gira-salida-bolsa-nasdaq/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:52:00+01:00</news:publication_date>
+      <news:title>Anthropic inicia su gira de salida a bolsa en el Nasdaq con una horquilla de 70 a 78 dólares</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/google-gemini-4-carbon-decision-1/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:51:00+01:00</news:publication_date>
+      <news:title>Google despliega Gemini 4 Carbon y presenta Gemini Decision 1 para automatización</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/jensen-huang-dimite-ceo-nvidia/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-12T18:50:00+01:00</news:publication_date>
+      <news:title>Jensen Huang dimite de forma inmediata como presidente y CEO de NVIDIA</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://megahercio.com/informatica/chrome-octavo-zero-day/</loc>
     <news:news>
       <news:publication>
