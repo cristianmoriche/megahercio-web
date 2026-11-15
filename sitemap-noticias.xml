@@ -1,124 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://megahercio.com/informatica/github-ataque-cadena-suministro-4837-cuentas/</loc>
+    <loc>https://megahercio.com/informatica/silentair-espionaje-redes-moviles-llamadas-sms/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:58:00+01:00</news:publication_date>
-      <news:title>Un ataque a 4.837 cuentas de GitHub inyecta robos de secretos en más de 1.800 repositorios</news:title>
+      <news:publication_date>2026-11-15T12:05:00+01:00</news:publication_date>
+      <news:title>SilentAir espía llamadas y códigos SMS desde el interior de redes móviles</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/informatica/apache-http-server-rce-critico/</loc>
+    <loc>https://megahercio.com/informatica/italia-multa-meta-805-millones-galeria/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:57:00+01:00</news:publication_date>
-      <news:title>Apache corrige una vulnerabilidad RCE crítica en HTTP Server (CVE-2026-119618)</news:title>
+      <news:publication_date>2026-11-15T11:10:00+01:00</news:publication_date>
+      <news:title>Italia multa a Meta con 805 millones por acceder sin permiso a la galería en Android</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/informatica/kora-sistema-linux-nativo-ia/</loc>
+    <loc>https://megahercio.com/electronica/intel-core-ultra-7-260k-tiendas/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:56:00+01:00</news:publication_date>
-      <news:title>KORA presenta un sistema Linux nativo para IA liderado por el cofundador de Cyanogen</news:title>
+      <news:publication_date>2026-11-15T10:20:00+01:00</news:publication_date>
+      <news:title>El Intel Core Ultra 7 260K aparece sin anuncio previo en equipos premontados de Newegg</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/electronica/amd-rdna-5-gfx13-parches-linux/</loc>
+    <loc>https://megahercio.com/ia/openai-chatgpt-wallet-compras-agentes/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:55:00+01:00</news:publication_date>
-      <news:title>La arquitectura AMD RDNA 5 (GFX13) aparece en los primeros parches del kernel Linux</news:title>
+      <news:publication_date>2026-11-15T09:15:00+01:00</news:publication_date>
+      <news:title>OpenAI lanza ChatGPT Wallet para que los agentes compren por el usuario en EE. UU.</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/ia/deepseek-harness-154-millones-usuarios/</loc>
+    <loc>https://megahercio.com/electronica/fallo-red-router-bloquea-vuelos-faa/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:54:00+01:00</news:publication_date>
-      <news:title>DeepSeek Harness alcanza los 1,54 millones de usuarios diarios y prepara tienda de plugins</news:title>
+      <news:publication_date>2026-11-14T18:40:00+01:00</news:publication_date>
+      <news:title>Un router mal configurado paraliza el tráfico aéreo de Estados Unidos tras una mejora de red</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/ia/openai-10000-millones-trimestre/</loc>
+    <loc>https://megahercio.com/ia/google-wallet-gemini-finanzas-personales/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:53:00+01:00</news:publication_date>
-      <news:title>OpenAI supera los 10.000 millones de dólares en ingresos en un solo trimestre</news:title>
+      <news:publication_date>2026-11-14T16:15:00+01:00</news:publication_date>
+      <news:title>Google permite conectar Google Wallet con Gemini para analizar gastos y suscripciones</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/ia/anthropic-gira-salida-bolsa-nasdaq/</loc>
+    <loc>https://megahercio.com/electronica/intel-razor-lake-coral-rapids-linux/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:52:00+01:00</news:publication_date>
-      <news:title>Anthropic inicia su gira de salida a bolsa en el Nasdaq con una horquilla de 70 a 78 dólares</news:title>
+      <news:publication_date>2026-11-14T13:20:00+01:00</news:publication_date>
+      <news:title>Intel documenta los futuros procesadores Razor Lake y Coral Rapids en su manual técnico</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/ia/google-gemini-4-carbon-decision-1/</loc>
+    <loc>https://megahercio.com/ia/llama-cpp-version-1-ia-local/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:51:00+01:00</news:publication_date>
-      <news:title>Google despliega Gemini 4 Carbon y presenta Gemini Decision 1 para automatización</news:title>
+      <news:publication_date>2026-11-14T11:30:00+01:00</news:publication_date>
+      <news:title>llama.cpp alcanza la versión 1.0.0 para dar estabilidad a la IA local</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/ia/jensen-huang-dimite-ceo-nvidia/</loc>
+    <loc>https://megahercio.com/informatica/microsoft-fallos-parches-windows-11/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-12T18:50:00+01:00</news:publication_date>
-      <news:title>Jensen Huang dimite de forma inmediata como presidente y CEO de NVIDIA</news:title>
+      <news:publication_date>2026-11-13T14:58:00+01:00</news:publication_date>
+      <news:title>Microsoft confirma fallos de instalación, impresión y activación en los parches de Windows</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/informatica/chrome-octavo-zero-day/</loc>
+    <loc>https://megahercio.com/electronica/amd-siren-halo-apu-gddr7/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-11T20:04:43+01:00</news:publication_date>
-      <news:title>Google corrige en Chrome 157 el octavo zero-day explotado en 2026</news:title>
+      <news:publication_date>2026-11-13T14:45:00+01:00</news:publication_date>
+      <news:title>Una filtración apunta a que AMD Siren Halo combinaría memoria gráfica GDDR7 y LPDDR</news:title>
     </news:news>
   </url>
   <url>
-    <loc>https://megahercio.com/ia/meta-muse-ember-modelo-agentes/</loc>
+    <loc>https://megahercio.com/electronica/openai-codex-bug-radeon-linux/</loc>
     <news:news>
       <news:publication>
         <news:name>Megahercio</news:name>
         <news:language>es</news:language>
       </news:publication>
-      <news:publication_date>2026-11-11T20:04:43+01:00</news:publication_date>
-      <news:title>Meta lanza Muse Ember, un modelo barato para el trabajo repetitivo de los agentes</news:title>
+      <news:publication_date>2026-11-13T14:44:00+01:00</news:publication_date>
+      <news:title>OpenAI Codex ayuda a corregir un fallo de casi 20 años en el driver Radeon de Linux</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/informatica/caida-global-microsoft-outlook-365/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T14:26:00+01:00</news:publication_date>
+      <news:title>Una caída global de Microsoft 365 deja sin Outlook a millones de usuarios durante más de 16 horas</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/google-gemini-4-hydrogen-programacion/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-13T14:25:00+01:00</news:publication_date>
+      <news:title>Google lanza Gemini 4 Hydrogen: el relevo rápido de Flash que alcanza a Argon en pruebas</news:title>
     </news:news>
   </url>
 </urlset>
