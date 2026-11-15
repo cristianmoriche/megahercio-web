@@ -121,26 +121,4 @@
       <news:title>OpenAI Codex ayuda a corregir un fallo de casi 20 años en el driver Radeon de Linux</news:title>
     </news:news>
   </url>
-  <url>
-    <loc>https://megahercio.com/informatica/caida-global-microsoft-outlook-365/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T14:26:00+01:00</news:publication_date>
-      <news:title>Una caída global de Microsoft 365 deja sin Outlook a millones de usuarios durante más de 16 horas</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/google-gemini-4-hydrogen-programacion/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-13T14:25:00+01:00</news:publication_date>
-      <news:title>Google lanza Gemini 4 Hydrogen: el relevo rápido de Flash que alcanza a Argon en pruebas</news:title>
-    </news:news>
-  </url>
 </urlset>
