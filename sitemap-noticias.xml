@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://megahercio.com/electronica/amd-completa-compra-world-labs/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T22:25:00+01:00</news:publication_date>
+      <news:title>AMD cierra la compra de World Labs e incorpora a Fei-Fei Li como científica jefe</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/informatica/microsoft-ignite-windows-agentes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T22:20:00+01:00</news:publication_date>
+      <news:title>Microsoft convierte Windows en un sistema para agentes de IA con ejecución local y contenedores</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/electronica/nvidia-nemotron-science-agentes/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T22:16:00+01:00</news:publication_date>
+      <news:title>NVIDIA presenta Rubin HPC con más de 50.000 núcleos CUDA y Nemotron for Science para agentes científicos</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://megahercio.com/ia/openai-gpt-6-2-astra-sol/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Megahercio</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-17T22:15:00+01:00</news:publication_date>
+      <news:title>OpenAI lanza GPT-6.2 Astra y Sol con API más barata y avances en ciencia y diseño 3D</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://megahercio.com/electronica/demanda-pacto-precios-dram-fabricantes/</loc>
     <news:news>
       <news:publication>
@@ -20,72 +64,6 @@
       </news:publication>
       <news:publication_date>2026-11-16T14:05:00+01:00</news:publication_date>
       <news:title>Claude Fable 5.2 reduce los bloqueos en seguridad mientras Mythos 5.2 mejora la caza de fallos</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/informatica/silentair-espionaje-redes-moviles-llamadas-sms/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T12:05:00+01:00</news:publication_date>
-      <news:title>SilentAir espía llamadas y códigos SMS desde el interior de redes móviles</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/informatica/italia-multa-meta-805-millones-galeria/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T11:10:00+01:00</news:publication_date>
-      <news:title>Italia multa a Meta con 805 millones por acceder sin permiso a la galería en Android</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/intel-core-ultra-7-260k-tiendas/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T10:20:00+01:00</news:publication_date>
-      <news:title>El Intel Core Ultra 7 260K aparece sin anuncio previo en equipos premontados de Newegg</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/openai-chatgpt-wallet-compras-agentes/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-15T09:15:00+01:00</news:publication_date>
-      <news:title>OpenAI lanza ChatGPT Wallet para que los agentes compren por el usuario en EE. UU.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/electronica/fallo-red-router-bloquea-vuelos-faa/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T18:40:00+01:00</news:publication_date>
-      <news:title>Un router mal configurado paraliza el tráfico aéreo de Estados Unidos tras una mejora de red</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://megahercio.com/ia/google-wallet-gemini-finanzas-personales/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Megahercio</news:name>
-        <news:language>es</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-14T16:15:00+01:00</news:publication_date>
-      <news:title>Google permite conectar Google Wallet con Gemini para analizar gastos y suscripciones</news:title>
     </news:news>
   </url>
 </urlset>
